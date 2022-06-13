@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Design Pattern Exercices/1.0.0": {
+        "runtime": {
+          "Design Pattern Exercices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Design Pattern Exercices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
