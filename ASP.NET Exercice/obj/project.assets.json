@@ -3050,19 +3050,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\redal\\.nuget\\packages\\": {}
+    "C:\\Users\\JawadFadel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\redal\\Desktop\\MongoPulse\\Internship-AlphaTechnology\\ASP.NET Exercice\\ASP.NET Exercice.csproj",
+      "projectUniqueName": "C:\\Users\\JawadFadel\\RiderProjects\\Internship-AlphaTechnology\\ASP.NET Exercice\\ASP.NET Exercice.csproj",
       "projectName": "ASP.NET Exercice",
-      "projectPath": "C:\\Users\\redal\\Desktop\\MongoPulse\\Internship-AlphaTechnology\\ASP.NET Exercice\\ASP.NET Exercice.csproj",
-      "packagesPath": "C:\\Users\\redal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\redal\\Desktop\\MongoPulse\\Internship-AlphaTechnology\\ASP.NET Exercice\\obj\\",
+      "projectPath": "C:\\Users\\JawadFadel\\RiderProjects\\Internship-AlphaTechnology\\ASP.NET Exercice\\ASP.NET Exercice.csproj",
+      "packagesPath": "C:\\Users\\JawadFadel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JawadFadel\\RiderProjects\\Internship-AlphaTechnology\\ASP.NET Exercice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\redal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JawadFadel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

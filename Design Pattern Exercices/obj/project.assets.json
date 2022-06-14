@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\redal\\.nuget\\packages\\": {}
+    "C:\\Users\\JawadFadel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\redal\\Desktop\\MongoPulse\\Internship-AlphaTechnology\\Design Pattern Exercices\\Design Pattern Exercices.csproj",
+      "projectUniqueName": "C:\\Users\\JawadFadel\\RiderProjects\\Internship-AlphaTechnology\\Design Pattern Exercices\\Design Pattern Exercices.csproj",
       "projectName": "Design Pattern Exercices",
-      "projectPath": "C:\\Users\\redal\\Desktop\\MongoPulse\\Internship-AlphaTechnology\\Design Pattern Exercices\\Design Pattern Exercices.csproj",
-      "packagesPath": "C:\\Users\\redal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\redal\\Desktop\\MongoPulse\\Internship-AlphaTechnology\\Design Pattern Exercices\\obj\\",
+      "projectPath": "C:\\Users\\JawadFadel\\RiderProjects\\Internship-AlphaTechnology\\Design Pattern Exercices\\Design Pattern Exercices.csproj",
+      "packagesPath": "C:\\Users\\JawadFadel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JawadFadel\\RiderProjects\\Internship-AlphaTechnology\\Design Pattern Exercices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\redal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JawadFadel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

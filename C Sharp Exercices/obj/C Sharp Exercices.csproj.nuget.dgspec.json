@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\redal\\Desktop\\MongoPulse\\Internship-AlphaTechnology\\C Sharp Exercices\\C Sharp Exercices.csproj": {}
+    "C:\\Users\\JawadFadel\\RiderProjects\\Internship-AlphaTechnology\\C Sharp Exercices\\C Sharp Exercices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\redal\\Desktop\\MongoPulse\\Internship-AlphaTechnology\\C Sharp Exercices\\C Sharp Exercices.csproj": {
+    "C:\\Users\\JawadFadel\\RiderProjects\\Internship-AlphaTechnology\\C Sharp Exercices\\C Sharp Exercices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\redal\\Desktop\\MongoPulse\\Internship-AlphaTechnology\\C Sharp Exercices\\C Sharp Exercices.csproj",
+        "projectUniqueName": "C:\\Users\\JawadFadel\\RiderProjects\\Internship-AlphaTechnology\\C Sharp Exercices\\C Sharp Exercices.csproj",
         "projectName": "C Sharp Exercices",
-        "projectPath": "C:\\Users\\redal\\Desktop\\MongoPulse\\Internship-AlphaTechnology\\C Sharp Exercices\\C Sharp Exercices.csproj",
-        "packagesPath": "C:\\Users\\redal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\redal\\Desktop\\MongoPulse\\Internship-AlphaTechnology\\C Sharp Exercices\\obj\\",
+        "projectPath": "C:\\Users\\JawadFadel\\RiderProjects\\Internship-AlphaTechnology\\C Sharp Exercices\\C Sharp Exercices.csproj",
+        "packagesPath": "C:\\Users\\JawadFadel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JawadFadel\\RiderProjects\\Internship-AlphaTechnology\\C Sharp Exercices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\redal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JawadFadel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
